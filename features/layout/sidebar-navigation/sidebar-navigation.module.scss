@@ -21,6 +21,9 @@
 
       .logo {
         width: 1.4375rem;
+        margin-left: space.$s4;
+        margin-right: space.$s0;
+        background-image: url("/icons/logo-small.svg");
       }
     }
   }
@@ -49,7 +52,10 @@
 }
 
 .logo {
+  height: 33px;
   width: 7.375rem;
+  background-image: url("/icons/logo-large.svg");
+  background-repeat: no-repeat;
 
   @media (min-width: breakpoint.$desktop) {
     margin: space.$s0 space.$s4;
