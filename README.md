@@ -10,7 +10,7 @@ npm install
 
 ### 2. Create .env File
 
-**copy the `.env.template` file to a new file called `.env`.** 
+**copy the `.env.template` file to a new file called `.env`.**
 
 ### 3. Run Development Server
 
@@ -20,7 +20,7 @@ npm run dev
 
 ## Tests
 
-This project is covered with Cypress tests. 
+This project is covered with Cypress tests.
 
 To run the Cypress tests on your local machine use this command:
 
